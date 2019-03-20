@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8278a48de8267b34b8139b6689a0a5b8, type: 3}
+  m_Name: InfoPanel
+  m_EditorClassIdentifier: 
+  ForInfoPanel:
+  - Keep Pressing Space For More Waves!
+  - Next Wave Incoming
+  - An Alien has Escaped!
+  - Not Enough Gold!
+  - 'Emperor Super Tiger says:
+
+    I''m the Evilest of them All!'
+  - 'Emperor Super Tiger says:
+
+    You think you can hurt me? How Cute!'
+  - 'Emperor Super Tiger says:
+
+    Attack my Minions!'
+  - 'Emperor Super Tiger says:
+
+    NOOOOO!'

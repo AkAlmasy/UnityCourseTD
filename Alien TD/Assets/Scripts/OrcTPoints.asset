@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dca66558b911b674d9645c3326b6361d, type: 3}
+  m_Name: OrcTPoints
+  m_EditorClassIdentifier: 
+  Points:
+  - {fileID: 1662155268556118, guid: 641389ff90768bd47b87654497c6ce26, type: 2}
+  - {fileID: 1821358844052672, guid: 641389ff90768bd47b87654497c6ce26, type: 2}
+  - {fileID: 1083177018251550, guid: 641389ff90768bd47b87654497c6ce26, type: 2}
+  - {fileID: 1377196897901552, guid: 641389ff90768bd47b87654497c6ce26, type: 2}
+  - {fileID: 1664829828290622, guid: 641389ff90768bd47b87654497c6ce26, type: 2}
+  - {fileID: 1657593027593392, guid: 641389ff90768bd47b87654497c6ce26, type: 2}
+  - {fileID: 1886902732194722, guid: 641389ff90768bd47b87654497c6ce26, type: 2}
+  - {fileID: 1796662547885190, guid: 641389ff90768bd47b87654497c6ce26, type: 2}
+  - {fileID: 1827912301341376, guid: 641389ff90768bd47b87654497c6ce26, type: 2}

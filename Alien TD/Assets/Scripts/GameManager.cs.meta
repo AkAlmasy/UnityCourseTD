@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: c15e750138eaf564da4a950f1c9e03ae
+timeCreated: 1521706798
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Finish: {instanceID: 0}
+  - goldtext: {instanceID: 0}
+  - enemytext: {instanceID: 0}
+  - portaltext: {instanceID: 0}
+  - gameovertext: {instanceID: 0}
+  - infotext: {instanceID: 0}
+  - strings: {fileID: 11400000, guid: 700af62db2a532b468b1c66c37f5c715, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
